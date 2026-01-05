@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "今好きになる。",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2026-01-05T03:22:14.177315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今好きになる。 -triangle story- feat.榎本虎太朗(CV:花江夏樹)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_今好きになる。_-triangle_story-_feat.榎本虎太朗(CV_花江夏樹)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "今好きになる。",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_今好きになる。_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "今好きになる。-triangle story-",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/03_今好きになる。-triangle_story-_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "今好きになる。 feat.瀬戸口雛(CV：麻倉もも)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/04_今好きになる。_feat.瀬戸口雛(CV_麻倉もも)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "今好きになる。",
+      "artist": "HoneyWorks feat. 瀬戸口雛(CV:麻倉もも)",
+      "has_synced": true,
+      "path": "select/05_今好きになる。_HoneyWorks_feat._瀬戸口雛(CV_麻倉もも).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "今好きになる。 -triangle story- feat.榎本虎太朗(CV：花江夏樹)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/06_今好きになる。_-triangle_story-_feat.榎本虎太朗(CV_花江夏樹)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "今好きになる。 -triangle story-",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/07_今好きになる。_-triangle_story-_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "今好きになる。",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/08_今好きになる。_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "今好きになる。 - triangle story",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/09_今好きになる。_-_triangle_story_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "今好きになる。 -triangle story-",
+      "artist": "HoneyWorks feat.榎本虎太朗(CV.花江夏樹)",
+      "has_synced": true,
+      "path": "select/10_今好きになる。_-triangle_story-_HoneyWorks_feat.榎本虎太朗(CV.花江夏樹).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "今好きになる。 (feat. 瀬戸口雛 (CV:麻倉もも))",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/11_今好きになる。_(feat._瀬戸口雛_(CV_麻倉もも))_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "今好きになる。",
+      "artist": "HoneyWorks/瀬戸口雛（CV：麻倉もも）",
+      "has_synced": true,
+      "path": "select/12_今好きになる。_HoneyWorks_瀬戸口雛(CV_麻倉もも).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "今好きになる。",
+      "artist": "Honeyworks",
+      "has_synced": false,
+      "path": "select/13_今好きになる。_Honeyworks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今好きになる。",
+      "artist": "HoneyWorks Feat. 瀬戸口雛 (麻倉もも)",
+      "has_synced": false,
+      "path": "select/pl_01_今好きになる。_HoneyWorks_Feat._瀬戸口雛_(麻倉もも).txt"
+    }
+  ]
+}
